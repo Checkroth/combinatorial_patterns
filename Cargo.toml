@@ -6,6 +6,8 @@ license-file = 'LICENSE'
 description = 'Rust implmementations of combinatronic concepts'
 repository = 'https://github.com/Checkroth/combinatorial_patterns'
 readme = 'README.md'
+keywords = ['combinatronic', 'combinatorial', 'latin-square']
+categories = ['algorithms', 'mathematics', 'science']
 
 [dependencies]
 rand = '0.8.5'
