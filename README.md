@@ -1,3 +1,7 @@
+![crates.io](https://img.shields.io/crates/v/combinatorial_patterns.svg)
+
+[Documentation](https://docs.rs/combinatorial_patterns/0.1.0/combinatorial_patterns/)
+
 # Combinatorial Patterns in Rust
 
 This project is meant to maintain rust implementations of [combinatorial patterns](https://en.wikipedia.org/wiki/Combinatorics).
